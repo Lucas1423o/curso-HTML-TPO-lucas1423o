@@ -176,6 +176,7 @@ body {
 }
 
 .flex-form-button-submit {
+    display: flex;
     background: linear-gradient(#481EBD, #611BB3);
     color: #e0e0e0;
 }
