@@ -132,6 +132,8 @@ body {
     gap: 4vw;
 }
 
+
+
 /* basicos de pagina base [FINAL] */
 /* _°_°_°_°_°_°_°_°_°_°_°_°_°_°_°_°_°_°_°_° */
 /* estilos de formulario [COMIENZO] */
@@ -207,6 +209,16 @@ body {
     height: 48vw;
     border-radius: 2vw;
     border: solid rgb(219, 210, 155);
+}
+
+.map-iframe {
+    display: flex;
+    justify-content: center;
+
+}
+.map-iframe > iframe {
+    width: 70vw;
+    height: 60vw;
 }
 
 

@@ -217,6 +217,15 @@ body {
     border: solid rgb(219, 210, 155);
 }
 
+.map-iframe {
+    display: flex;
+    justify-content: center;
+
+}
+.map-iframe > iframe {
+    width: 70vw;
+    height: 40vw;
+}
 
 /* media queries */
 
